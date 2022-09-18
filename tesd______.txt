@@ -1,5 +1,2 @@
-<<<<<<< Updated upstream
 testGitFuction
 dfgsdfsdfsdf======
-
->>>>>>> Stashed changes
